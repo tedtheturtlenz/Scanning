@@ -1,0 +1,9 @@
+# Ignore compiled Python files
+__pycache__/
+robot/__pycache__/
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+robot/.venv/
