@@ -1,6 +1,11 @@
 # Bonsai Scanner User Input Script
 
-This repository contains a Python script designed to interact with a user, collect specific input values, and save them for future use. The script creates a simple graphical user interface (GUI) using the `tkinter` library to capture user preferences related to a bonsai scanning process. The user inputs include height values, number of photos per loop, and the number of loops to perform.
+This repository contains a Python script designed to interact with a user, collect specific input values, and save them for future use. The script creates a simple graphical user interface (GUI) using the `tkinter` library to capture user preferences related to a bonsai scanning process. The user inputs include height values, number of photos per loop, and the number of loops to perform. 
+
+## Other Repos
+Scanning is meant to be used with these two other repositories:
+https://github.com/tedtheturtlenz/PointCloud_Prep
+https://github.com/tedtheturtlenz/PointStack
 
 
 ## Features
